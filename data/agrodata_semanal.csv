@@ -1,0 +1,417 @@
+finca_id,finca,municipio,semana,fecha_inicio,litros_leche,kg_maiz,kg_sorgo,costo_alimento,lluvia_mm,temperatura_promedio,animales_activos,incidencia_sanitaria,observacion
+1,La Esperanza,San Pedro,1,2025-01-06,1308,195,110,691991,136.3,19.8,24,sin novedad,monitorear humedad
+2,El Progreso,Entrerrios,1,2025-01-06,1176,185,118,636140,125.2,17.9,22,observacion,seguimiento veterinario
+3,Santa Lucia,Yarumal,1,2025-01-06,1790,257,144,956161,114.3,20.4,30,observacion,seguimiento veterinario
+4,Monte Verde,Santa Rosa,1,2025-01-06,1790,246,160,1263664,117.1,18.1,33,sin novedad,operacion estable
+5,La Pradera,Donmatias,1,2025-01-06,2072,282,167,1173034,126.7,20.7,33,sin novedad,operacion estable
+6,Altos del Rio,Belmira,1,2025-01-06,1996,317,218,981041,104.3,19.8,34,control preventivo,operacion estable
+7,Villa Norte,Carolina,1,2025-01-06,2191,342,216,1190150,141.0,18.3,37,control preventivo,monitorear humedad
+8,Buenavista,Gomez Plata,1,2025-01-06,2481,325,254,1408173,126.6,18.5,41,sin novedad,operacion estable
+1,La Esperanza,San Pedro,2,2025-01-13,1250,191,140,670014,141.3,18.2,22,sin novedad,monitorear humedad
+2,El Progreso,Entrerrios,2,2025-01-13,1255,212,151,903586,119.5,20.0,24,sin novedad,operacion estable
+3,Santa Lucia,Yarumal,2,2025-01-13,1664,225,147,1066435,130.3,20.2,30,sin novedad,monitorear humedad
+4,Monte Verde,Santa Rosa,2,2025-01-13,1738,248,182,1037302,140.7,20.6,32,observacion,monitorear humedad
+5,La Pradera,Donmatias,2,2025-01-13,1953,308,206,970810,122.7,21.0,36,sin novedad,operacion estable
+6,Altos del Rio,Belmira,2,2025-01-13,2203,290,228,1354740,140.4,20.3,36,control preventivo,monitorear humedad
+7,Villa Norte,Carolina,2,2025-01-13,1942,357,203,1431835,146.4,18.8,37,sin novedad,monitorear humedad
+8,Buenavista,Gomez Plata,2,2025-01-13,2272,360,260,1346984,113.9,19.1,41,observacion,seguimiento veterinario
+1,La Esperanza,San Pedro,3,2025-01-20,1526,166,137,693582,108.2,21.0,23,control preventivo,operacion estable
+2,El Progreso,Entrerrios,3,2025-01-20,1233,199,122,819310,146.5,21.1,23,sin novedad,monitorear humedad
+3,Santa Lucia,Yarumal,3,2025-01-20,1390,233,151,860083,136.4,21.1,26,sin novedad,monitorear humedad
+4,Monte Verde,Santa Rosa,3,2025-01-20,2089,274,178,1286859,138.5,19.5,33,sin novedad,monitorear humedad
+5,La Pradera,Donmatias,3,2025-01-20,1740,266,191,893437,133.9,20.0,34,sin novedad,monitorear humedad
+6,Altos del Rio,Belmira,3,2025-01-20,1991,310,192,1291935,148.6,18.4,34,observacion,monitorear humedad
+7,Villa Norte,Carolina,3,2025-01-20,2312,320,252,1494945,134.7,19.6,39,sin novedad,monitorear humedad
+8,Buenavista,Gomez Plata,3,2025-01-20,2220,382,246,1363240,129.7,20.4,43,sin novedad,operacion estable
+1,La Esperanza,San Pedro,4,2025-01-27,1081,181,116,548012,135.4,18.8,19,observacion,monitorear humedad
+2,El Progreso,Entrerrios,4,2025-01-27,1321,248,154,667187,141.0,20.0,24,sin novedad,monitorear humedad
+3,Santa Lucia,Yarumal,4,2025-01-27,1593,236,163,817513,119.9,19.6,25,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,4,2025-01-27,1655,272,184,871858,143.1,20.6,29,sin novedad,monitorear humedad
+5,La Pradera,Donmatias,4,2025-01-27,2175,286,191,1037424,112.5,20.6,36,sin novedad,operacion estable
+6,Altos del Rio,Belmira,4,2025-01-27,2098,346,223,1487709,135.2,18.6,39,sin novedad,monitorear humedad
+7,Villa Norte,Carolina,4,2025-01-27,2288,317,252,1386665,129.0,21.2,37,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,4,2025-01-27,2369,342,254,1422999,136.8,19.4,41,control preventivo,monitorear humedad
+1,La Esperanza,San Pedro,5,2025-02-03,1228,201,118,631234,143.7,19.6,20,control preventivo,monitorear humedad
+2,El Progreso,Entrerrios,5,2025-02-03,1212,207,125,731953,135.7,19.0,22,control preventivo,monitorear humedad
+3,Santa Lucia,Yarumal,5,2025-02-03,1631,254,149,803469,137.5,19.6,25,sin novedad,monitorear humedad
+4,Monte Verde,Santa Rosa,5,2025-02-03,1784,280,199,781185,153.6,19.4,28,sin novedad,monitorear humedad
+5,La Pradera,Donmatias,5,2025-02-03,2145,302,214,1039594,127.9,20.7,36,control preventivo,operacion estable
+6,Altos del Rio,Belmira,5,2025-02-03,2172,301,234,1200496,124.7,18.7,38,observacion,seguimiento veterinario
+7,Villa Norte,Carolina,5,2025-02-03,2749,369,248,1485784,138.3,19.0,42,observacion,monitorear humedad
+8,Buenavista,Gomez Plata,5,2025-02-03,2307,355,258,1220208,126.2,21.3,44,sin novedad,operacion estable
+1,La Esperanza,San Pedro,6,2025-02-10,1142,186,126,763711,155.0,20.1,21,sin novedad,monitorear humedad
+2,El Progreso,Entrerrios,6,2025-02-10,1450,217,133,1010227,113.7,21.1,27,control preventivo,operacion estable
+3,Santa Lucia,Yarumal,6,2025-02-10,1910,252,158,791748,146.2,20.1,28,sin novedad,monitorear humedad
+4,Monte Verde,Santa Rosa,6,2025-02-10,1850,304,182,940511,150.7,19.6,31,sin novedad,monitorear humedad
+5,La Pradera,Donmatias,6,2025-02-10,1988,305,182,1390194,125.9,20.8,36,sin novedad,operacion estable
+6,Altos del Rio,Belmira,6,2025-02-10,2678,336,198,1075358,159.1,19.4,39,control preventivo,monitorear humedad
+7,Villa Norte,Carolina,6,2025-02-10,2023,362,261,1359131,133.5,21.9,37,sin novedad,monitorear humedad
+8,Buenavista,Gomez Plata,6,2025-02-10,2805,374,236,1520110,112.6,21.7,43,sin novedad,operacion estable
+1,La Esperanza,San Pedro,7,2025-02-17,1638,201,128,760094,158.5,21.9,24,sin novedad,monitorear humedad
+2,El Progreso,Entrerrios,7,2025-02-17,1459,238,156,731676,132.6,20.4,24,control preventivo,monitorear humedad
+3,Santa Lucia,Yarumal,7,2025-02-17,1611,272,186,1046606,121.3,20.9,29,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,7,2025-02-17,2096,284,175,1016113,140.8,21.1,32,sin novedad,monitorear humedad
+5,La Pradera,Donmatias,7,2025-02-17,1999,338,210,1249491,159.1,21.4,34,sin novedad,monitorear humedad
+6,Altos del Rio,Belmira,7,2025-02-17,2268,339,204,1329132,149.0,21.2,36,observacion,monitorear humedad
+7,Villa Norte,Carolina,7,2025-02-17,2022,352,248,1303569,149.9,20.5,38,sin novedad,monitorear humedad
+8,Buenavista,Gomez Plata,7,2025-02-17,2637,409,262,1215013,144.5,19.2,41,sin novedad,monitorear humedad
+1,La Esperanza,San Pedro,8,2025-02-24,1367,236,109,740618,156.8,19.8,22,observacion,monitorear humedad
+2,El Progreso,Entrerrios,8,2025-02-24,1651,242,153,858612,147.3,20.9,25,sin novedad,monitorear humedad
+3,Santa Lucia,Yarumal,8,2025-02-24,1991,287,172,835775,124.7,21.3,28,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,8,2025-02-24,1942,307,167,1103788,124.0,20.4,31,sin novedad,operacion estable
+5,La Pradera,Donmatias,8,2025-02-24,1695,325,226,887950,123.1,20.7,31,control preventivo,operacion estable
+6,Altos del Rio,Belmira,8,2025-02-24,2235,326,227,1187061,149.7,22.3,38,sin novedad,monitorear humedad
+7,Villa Norte,Carolina,8,2025-02-24,2349,370,239,1477182,153.8,22.3,41,sin novedad,monitorear humedad
+8,Buenavista,Gomez Plata,8,2025-02-24,2917,377,270,1277999,133.7,19.5,44,control preventivo,monitorear humedad
+1,La Esperanza,San Pedro,9,2025-03-03,1564,200,136,913216,159.0,21.3,24,sin novedad,monitorear humedad
+2,El Progreso,Entrerrios,9,2025-03-03,1549,214,167,825291,153.6,20.2,26,control preventivo,monitorear humedad
+3,Santa Lucia,Yarumal,9,2025-03-03,1680,270,167,1015027,130.1,21.9,28,sin novedad,monitorear humedad
+4,Monte Verde,Santa Rosa,9,2025-03-03,2042,255,199,807543,157.6,20.4,30,sin novedad,monitorear humedad
+5,La Pradera,Donmatias,9,2025-03-03,1882,309,196,1332809,141.8,20.4,36,sin novedad,monitorear humedad
+6,Altos del Rio,Belmira,9,2025-03-03,2139,362,247,1157095,129.7,21.5,39,sin novedad,operacion estable
+7,Villa Norte,Carolina,9,2025-03-03,2563,330,241,1281463,155.5,20.8,38,observacion,monitorear humedad
+8,Buenavista,Gomez Plata,9,2025-03-03,2600,383,247,1417290,126.4,21.7,40,sin novedad,operacion estable
+1,La Esperanza,San Pedro,10,2025-03-10,1531,234,150,720580,134.7,21.0,23,sin novedad,monitorear humedad
+2,El Progreso,Entrerrios,10,2025-03-10,1400,263,172,715072,118.9,21.5,25,control preventivo,operacion estable
+3,Santa Lucia,Yarumal,10,2025-03-10,1992,291,176,930801,145.6,20.8,29,observacion,monitorear humedad
+4,Monte Verde,Santa Rosa,10,2025-03-10,1668,286,195,951445,142.5,21.0,28,sin novedad,monitorear humedad
+5,La Pradera,Donmatias,10,2025-03-10,1850,325,201,1017375,152.7,22.1,33,control preventivo,monitorear humedad
+6,Altos del Rio,Belmira,10,2025-03-10,2026,315,219,1347546,133.9,22.2,38,sin novedad,monitorear humedad
+7,Villa Norte,Carolina,10,2025-03-10,2777,332,229,1252572,129.9,20.7,42,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,10,2025-03-10,2639,398,270,1652220,136.9,21.0,42,sin novedad,monitorear humedad
+1,La Esperanza,San Pedro,11,2025-03-17,1216,196,155,608495,114.1,21.8,21,observacion,seguimiento veterinario
+2,El Progreso,Entrerrios,11,2025-03-17,1366,241,174,790136,144.8,22.0,23,sin novedad,monitorear humedad
+3,Santa Lucia,Yarumal,11,2025-03-17,1542,253,166,691712,134.0,21.0,26,sin novedad,monitorear humedad
+4,Monte Verde,Santa Rosa,11,2025-03-17,1835,318,173,1205871,135.9,21.6,32,sin novedad,monitorear humedad
+5,La Pradera,Donmatias,11,2025-03-17,1819,313,216,920073,111.5,21.7,33,sin novedad,operacion estable
+6,Altos del Rio,Belmira,11,2025-03-17,2500,325,241,1501376,112.4,21.0,39,sin novedad,operacion estable
+7,Villa Norte,Carolina,11,2025-03-17,2678,359,258,1249786,152.0,21.1,40,sin novedad,monitorear humedad
+8,Buenavista,Gomez Plata,11,2025-03-17,2621,363,283,1664370,113.1,22.5,43,observacion,seguimiento veterinario
+1,La Esperanza,San Pedro,12,2025-03-24,1319,212,120,705133,113.2,21.7,21,sin novedad,operacion estable
+2,El Progreso,Entrerrios,12,2025-03-24,1451,243,173,753953,146.9,20.7,25,observacion,monitorear humedad
+3,Santa Lucia,Yarumal,12,2025-03-24,1885,257,175,752976,116.5,20.9,27,control preventivo,operacion estable
+4,Monte Verde,Santa Rosa,12,2025-03-24,1570,296,205,1053277,133.0,21.3,29,sin novedad,monitorear humedad
+5,La Pradera,Donmatias,12,2025-03-24,2321,333,204,1118298,129.4,20.7,34,sin novedad,operacion estable
+6,Altos del Rio,Belmira,12,2025-03-24,2520,339,207,1014398,151.8,23.0,37,sin novedad,monitorear humedad
+7,Villa Norte,Carolina,12,2025-03-24,2968,366,261,1098983,142.0,21.9,41,sin novedad,monitorear humedad
+8,Buenavista,Gomez Plata,12,2025-03-24,2476,412,285,1556817,152.2,21.9,42,sin novedad,monitorear humedad
+1,La Esperanza,San Pedro,13,2025-03-31,1192,202,130,666319,126.2,22.7,21,sin novedad,operacion estable
+2,El Progreso,Entrerrios,13,2025-03-31,1369,247,145,792656,149.0,21.9,26,sin novedad,monitorear humedad
+3,Santa Lucia,Yarumal,13,2025-03-31,1678,291,174,687966,127.3,22.6,25,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,13,2025-03-31,1961,283,184,1097805,146.9,22.0,33,sin novedad,monitorear humedad
+5,La Pradera,Donmatias,13,2025-03-31,1781,312,232,888706,128.9,22.3,31,sin novedad,operacion estable
+6,Altos del Rio,Belmira,13,2025-03-31,2408,366,213,1222487,109.8,23.5,35,control preventivo,operacion estable
+7,Villa Norte,Carolina,13,2025-03-31,2721,393,255,1211318,128.9,21.8,41,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,13,2025-03-31,2875,366,262,1591630,143.4,21.7,44,sin novedad,monitorear humedad
+1,La Esperanza,San Pedro,14,2025-04-07,1404,220,146,717239,130.3,23.5,21,sin novedad,monitorear humedad
+2,El Progreso,Entrerrios,14,2025-04-07,1617,255,157,1001494,140.4,23.8,26,observacion,monitorear humedad
+3,Santa Lucia,Yarumal,14,2025-04-07,1870,284,150,882232,121.4,23.6,29,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,14,2025-04-07,2295,276,198,1203504,104.7,23.8,31,control preventivo,operacion estable
+5,La Pradera,Donmatias,14,2025-04-07,2148,294,220,1187287,99.4,21.3,31,observacion,seguimiento veterinario
+6,Altos del Rio,Belmira,14,2025-04-07,2090,350,245,1211075,129.9,23.5,34,sin novedad,operacion estable
+7,Villa Norte,Carolina,14,2025-04-07,2865,394,259,1076727,102.0,22.8,40,control preventivo,operacion estable
+8,Buenavista,Gomez Plata,14,2025-04-07,2750,369,285,1456103,103.5,21.4,41,control preventivo,operacion estable
+1,La Esperanza,San Pedro,15,2025-04-14,1162,188,127,591740,115.2,21.8,19,sin novedad,operacion estable
+2,El Progreso,Entrerrios,15,2025-04-14,1655,227,139,705961,136.3,23.0,26,observacion,monitorear humedad
+3,Santa Lucia,Yarumal,15,2025-04-14,1879,260,176,969517,116.5,23.1,28,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,15,2025-04-14,1909,265,195,1157091,141.9,22.0,30,sin novedad,monitorear humedad
+5,La Pradera,Donmatias,15,2025-04-14,2093,306,210,1340580,99.6,22.2,36,control preventivo,operacion estable
+6,Altos del Rio,Belmira,15,2025-04-14,2339,343,206,1478134,126.1,21.9,38,sin novedad,operacion estable
+7,Villa Norte,Carolina,15,2025-04-14,2731,394,243,1527694,105.5,23.5,42,observacion,seguimiento veterinario
+8,Buenavista,Gomez Plata,15,2025-04-14,2563,373,284,1234330,124.6,21.2,45,sin novedad,operacion estable
+1,La Esperanza,San Pedro,16,2025-04-21,1302,196,113,727558,105.6,22.5,19,observacion,seguimiento veterinario
+2,El Progreso,Entrerrios,16,2025-04-21,1537,269,144,863321,102.2,23.7,23,sin novedad,operacion estable
+3,Santa Lucia,Yarumal,16,2025-04-21,1780,244,176,1048575,96.7,24.2,27,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,16,2025-04-21,2034,305,166,949784,95.8,22.4,32,control preventivo,operacion estable
+5,La Pradera,Donmatias,16,2025-04-21,2184,327,191,1225560,112.5,23.1,35,sin novedad,operacion estable
+6,Altos del Rio,Belmira,16,2025-04-21,2441,313,244,1332054,133.6,22.2,36,sin novedad,monitorear humedad
+7,Villa Norte,Carolina,16,2025-04-21,2009,368,255,1037013,101.2,22.9,37,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,16,2025-04-21,2686,407,280,1549718,97.3,22.5,43,sin novedad,operacion estable
+1,La Esperanza,San Pedro,17,2025-04-28,1381,183,151,683201,106.3,24.3,22,control preventivo,operacion estable
+2,El Progreso,Entrerrios,17,2025-04-28,1530,249,129,699677,94.1,21.8,22,sin novedad,operacion estable
+3,Santa Lucia,Yarumal,17,2025-04-28,1683,231,149,912858,96.7,21.8,25,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,17,2025-04-28,1700,279,202,849083,126.7,22.4,29,observacion,seguimiento veterinario
+5,La Pradera,Donmatias,17,2025-04-28,1836,294,218,1030187,93.4,23.4,35,sin novedad,operacion estable
+6,Altos del Rio,Belmira,17,2025-04-28,2008,333,240,1072726,93.4,21.6,35,sin novedad,operacion estable
+7,Villa Norte,Carolina,17,2025-04-28,2211,387,250,1494473,109.6,21.7,41,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,17,2025-04-28,2742,390,270,1425600,86.5,24.4,41,sin novedad,operacion estable
+1,La Esperanza,San Pedro,18,2025-05-05,1448,233,110,838000,95.3,22.0,22,observacion,seguimiento veterinario
+2,El Progreso,Entrerrios,18,2025-05-05,1577,243,149,945513,105.3,22.9,24,sin novedad,operacion estable
+3,Santa Lucia,Yarumal,18,2025-05-05,1631,241,185,972103,116.8,23.7,28,observacion,seguimiento veterinario
+4,Monte Verde,Santa Rosa,18,2025-05-05,1845,303,184,1151039,99.0,23.7,31,control preventivo,operacion estable
+5,La Pradera,Donmatias,18,2025-05-05,1960,323,191,1197404,102.6,21.8,34,sin novedad,operacion estable
+6,Altos del Rio,Belmira,18,2025-05-05,2149,347,209,1145985,108.0,23.2,34,control preventivo,operacion estable
+7,Villa Norte,Carolina,18,2025-05-05,2328,379,266,1132439,93.7,22.5,42,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,18,2025-05-05,2652,410,253,1640701,96.7,23.2,44,sin novedad,operacion estable
+1,La Esperanza,San Pedro,19,2025-05-12,1416,230,140,825951,113.8,23.5,21,sin novedad,operacion estable
+2,El Progreso,Entrerrios,19,2025-05-12,1451,234,125,634378,108.3,22.5,22,control preventivo,operacion estable
+3,Santa Lucia,Yarumal,19,2025-05-12,1380,275,147,762188,104.9,21.7,27,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,19,2025-05-12,1732,291,172,905620,109.2,23.9,29,sin novedad,operacion estable
+5,La Pradera,Donmatias,19,2025-05-12,1825,292,190,1255708,76.9,21.9,35,sin novedad,operacion estable
+6,Altos del Rio,Belmira,19,2025-05-12,2388,353,225,1161505,110.8,22.0,39,sin novedad,operacion estable
+7,Villa Norte,Carolina,19,2025-05-12,2207,383,251,1304120,76.7,22.8,37,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,19,2025-05-12,2112,373,245,1450173,88.4,22.0,40,sin novedad,operacion estable
+1,La Esperanza,San Pedro,20,2025-05-19,1360,221,138,849675,93.1,24.2,24,control preventivo,operacion estable
+2,El Progreso,Entrerrios,20,2025-05-19,1386,202,149,585580,113.3,24.3,22,sin novedad,operacion estable
+3,Santa Lucia,Yarumal,20,2025-05-19,1805,274,159,779583,70.1,22.6,28,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,20,2025-05-19,2022,257,187,1150457,80.8,23.4,31,sin novedad,operacion estable
+5,La Pradera,Donmatias,20,2025-05-19,1802,313,192,954476,77.2,23.2,31,sin novedad,operacion estable
+6,Altos del Rio,Belmira,20,2025-05-19,2397,338,219,1355065,108.4,24.1,38,observacion,seguimiento veterinario
+7,Villa Norte,Carolina,20,2025-05-19,1983,340,253,1049690,105.6,21.9,37,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,20,2025-05-19,2855,399,277,1649672,96.2,23.6,43,sin novedad,operacion estable
+1,La Esperanza,San Pedro,21,2025-05-26,1432,211,111,673245,86.2,23.6,21,control preventivo,operacion estable
+2,El Progreso,Entrerrios,21,2025-05-26,1408,204,140,831548,65.5,22.8,26,control preventivo,operacion estable
+3,Santa Lucia,Yarumal,21,2025-05-26,1472,282,163,817881,90.3,24.1,25,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,21,2025-05-26,2088,266,177,1054277,87.8,24.6,31,sin novedad,operacion estable
+5,La Pradera,Donmatias,21,2025-05-26,1983,276,208,1076269,65.6,23.8,31,sin novedad,operacion estable
+6,Altos del Rio,Belmira,21,2025-05-26,2219,336,217,1448620,82.3,24.0,38,sin novedad,operacion estable
+7,Villa Norte,Carolina,21,2025-05-26,2433,355,217,1132971,90.5,22.9,37,control preventivo,operacion estable
+8,Buenavista,Gomez Plata,21,2025-05-26,2974,356,252,1218438,95.5,24.4,45,control preventivo,operacion estable
+1,La Esperanza,San Pedro,22,2025-06-02,1486,184,139,845116,62.4,23.4,24,control preventivo,operacion estable
+2,El Progreso,Entrerrios,22,2025-06-02,1504,203,160,806176,82.7,21.7,23,control preventivo,operacion estable
+3,Santa Lucia,Yarumal,22,2025-06-02,1694,277,149,765541,64.9,21.9,26,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,22,2025-06-02,2102,243,197,973043,95.1,22.1,32,sin novedad,operacion estable
+5,La Pradera,Donmatias,22,2025-06-02,1800,283,219,1024462,78.0,23.7,32,observacion,seguimiento veterinario
+6,Altos del Rio,Belmira,22,2025-06-02,2330,342,205,1227599,73.2,24.1,37,sin novedad,operacion estable
+7,Villa Norte,Carolina,22,2025-06-02,2207,365,238,1382712,95.7,23.2,38,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,22,2025-06-02,2710,349,244,1100421,81.4,22.8,41,sin novedad,operacion estable
+1,La Esperanza,San Pedro,23,2025-06-09,1448,202,104,860912,66.2,24.4,24,observacion,seguimiento veterinario
+2,El Progreso,Entrerrios,23,2025-06-09,1259,246,139,960903,73.0,22.8,25,control preventivo,operacion estable
+3,Santa Lucia,Yarumal,23,2025-06-09,1387,259,149,695437,97.8,24.2,26,control preventivo,operacion estable
+4,Monte Verde,Santa Rosa,23,2025-06-09,1502,295,197,1083118,89.5,23.1,29,sin novedad,operacion estable
+5,La Pradera,Donmatias,23,2025-06-09,1888,290,183,1151750,79.4,23.8,31,sin novedad,operacion estable
+6,Altos del Rio,Belmira,23,2025-06-09,1907,311,207,1024319,64.5,23.6,37,sin novedad,operacion estable
+7,Villa Norte,Carolina,23,2025-06-09,2089,306,246,1309535,64.7,22.1,40,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,23,2025-06-09,2347,380,235,1398273,57.2,24.6,40,sin novedad,operacion estable
+1,La Esperanza,San Pedro,24,2025-06-16,1433,227,132,612509,90.0,21.7,23,sin novedad,operacion estable
+2,El Progreso,Entrerrios,24,2025-06-16,1192,230,119,736958,83.3,23.5,24,sin novedad,revisar alimentacion
+3,Santa Lucia,Yarumal,24,2025-06-16,1760,213,154,987635,87.1,22.1,30,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,24,2025-06-16,1821,248,154,1159823,93.4,21.7,33,observacion,seguimiento veterinario
+5,La Pradera,Donmatias,24,2025-06-16,1812,294,187,1024119,95.6,23.2,31,control preventivo,operacion estable
+6,Altos del Rio,Belmira,24,2025-06-16,2015,312,207,1274945,50.4,23.5,34,control preventivo,operacion estable
+7,Villa Norte,Carolina,24,2025-06-16,2284,350,231,1405540,66.6,24.5,37,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,24,2025-06-16,2670,356,225,1592862,51.9,23.4,45,observacion,seguimiento veterinario
+1,La Esperanza,San Pedro,25,2025-06-23,1154,170,115,792314,58.1,23.3,23,sin novedad,operacion estable
+2,El Progreso,Entrerrios,25,2025-06-23,1347,239,115,823747,87.1,23.3,23,sin novedad,operacion estable
+3,Santa Lucia,Yarumal,25,2025-06-23,1675,211,134,935535,62.9,23.0,27,observacion,seguimiento veterinario
+4,Monte Verde,Santa Rosa,25,2025-06-23,1488,283,149,783937,54.7,23.4,28,control preventivo,operacion estable
+5,La Pradera,Donmatias,25,2025-06-23,2037,268,208,1085385,61.2,22.8,34,sin novedad,operacion estable
+6,Altos del Rio,Belmira,25,2025-06-23,1932,321,202,1311693,55.4,21.8,38,observacion,seguimiento veterinario
+7,Villa Norte,Carolina,25,2025-06-23,2300,309,215,1441311,77.2,22.1,40,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,25,2025-06-23,2499,341,223,1166837,46.9,22.0,42,sin novedad,operacion estable
+1,La Esperanza,San Pedro,26,2025-06-30,1118,201,139,522889,65.0,24.0,19,observacion,seguimiento veterinario
+2,El Progreso,Entrerrios,26,2025-06-30,1653,201,134,876823,44.8,22.0,27,observacion,seguimiento veterinario
+3,Santa Lucia,Yarumal,26,2025-06-30,1451,247,163,878979,61.4,24.3,26,observacion,seguimiento veterinario
+4,Monte Verde,Santa Rosa,26,2025-06-30,1858,262,170,1248771,73.5,22.9,32,sin novedad,operacion estable
+5,La Pradera,Donmatias,26,2025-06-30,1707,254,190,1117934,63.8,21.7,35,sin novedad,revisar alimentacion
+6,Altos del Rio,Belmira,26,2025-06-30,2298,283,206,1263781,80.7,23.8,39,sin novedad,operacion estable
+7,Villa Norte,Carolina,26,2025-06-30,1936,330,241,1108402,84.5,22.9,38,control preventivo,operacion estable
+8,Buenavista,Gomez Plata,26,2025-06-30,2132,346,221,1370351,68.5,21.6,40,observacion,seguimiento veterinario
+1,La Esperanza,San Pedro,27,2025-07-07,1332,174,134,784379,78.4,22.2,23,sin novedad,operacion estable
+2,El Progreso,Entrerrios,27,2025-07-07,1205,185,110,843934,72.1,22.0,22,observacion,seguimiento veterinario
+3,Santa Lucia,Yarumal,27,2025-07-07,1607,200,156,1083871,61.3,23.1,29,control preventivo,operacion estable
+4,Monte Verde,Santa Rosa,27,2025-07-07,1683,269,161,991828,68.1,21.7,31,sin novedad,operacion estable
+5,La Pradera,Donmatias,27,2025-07-07,1818,258,178,1261996,50.4,24.2,34,control preventivo,operacion estable
+6,Altos del Rio,Belmira,27,2025-07-07,1816,327,210,1019864,46.7,21.6,37,sin novedad,revisar alimentacion
+7,Villa Norte,Carolina,27,2025-07-07,1788,320,216,1419216,55.1,24.1,38,observacion,revisar alimentacion
+8,Buenavista,Gomez Plata,27,2025-07-07,2615,345,221,1509834,59.0,22.7,42,sin novedad,operacion estable
+1,La Esperanza,San Pedro,28,2025-07-14,1048,200,122,677463,43.2,22.8,21,sin novedad,revisar alimentacion
+2,El Progreso,Entrerrios,28,2025-07-14,1166,232,124,735813,72.3,22.3,22,control preventivo,operacion estable
+3,Santa Lucia,Yarumal,28,2025-07-14,1553,239,125,931856,59.0,21.6,30,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,28,2025-07-14,1460,271,174,896041,79.1,23.1,30,sin novedad,revisar alimentacion
+5,La Pradera,Donmatias,28,2025-07-14,1916,282,176,1069118,49.2,21.4,32,sin novedad,operacion estable
+6,Altos del Rio,Belmira,28,2025-07-14,1889,262,174,1045115,47.6,22.4,38,sin novedad,revisar alimentacion
+7,Villa Norte,Carolina,28,2025-07-14,2115,295,208,1447206,46.9,22.2,38,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,28,2025-07-14,2661,342,237,1651129,57.2,23.1,45,control preventivo,operacion estable
+1,La Esperanza,San Pedro,29,2025-07-21,1246,189,131,607196,48.7,21.7,22,sin novedad,operacion estable
+2,El Progreso,Entrerrios,29,2025-07-21,1427,197,150,692848,51.8,22.4,26,sin novedad,operacion estable
+3,Santa Lucia,Yarumal,29,2025-07-21,1416,220,122,932455,62.3,21.4,28,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,29,2025-07-21,1550,236,162,975269,58.0,22.2,30,sin novedad,operacion estable
+5,La Pradera,Donmatias,29,2025-07-21,1671,272,195,1157517,46.8,23.7,36,sin novedad,revisar alimentacion
+6,Altos del Rio,Belmira,29,2025-07-21,1906,285,208,1224594,74.6,21.6,38,control preventivo,operacion estable
+7,Villa Norte,Carolina,29,2025-07-21,2195,309,230,1094525,62.5,21.8,38,control preventivo,operacion estable
+8,Buenavista,Gomez Plata,29,2025-07-21,2666,329,219,1207921,61.2,21.9,44,sin novedad,operacion estable
+1,La Esperanza,San Pedro,30,2025-07-28,1319,163,104,555674,72.2,20.8,21,sin novedad,operacion estable
+2,El Progreso,Entrerrios,30,2025-07-28,1334,192,114,984931,39.4,22.3,27,control preventivo,revisar alimentacion
+3,Santa Lucia,Yarumal,30,2025-07-28,1302,216,133,693838,69.8,21.3,26,observacion,seguimiento veterinario
+4,Monte Verde,Santa Rosa,30,2025-07-28,1287,266,140,981973,32.9,23.5,28,observacion,revisar alimentacion
+5,La Pradera,Donmatias,30,2025-07-28,1847,288,191,976039,72.6,21.6,34,sin novedad,operacion estable
+6,Altos del Rio,Belmira,30,2025-07-28,1785,252,177,1064785,66.5,23.4,34,sin novedad,operacion estable
+7,Villa Norte,Carolina,30,2025-07-28,2164,305,184,1038748,53.6,20.9,40,control preventivo,operacion estable
+8,Buenavista,Gomez Plata,30,2025-07-28,2208,352,205,1557118,48.8,21.2,42,sin novedad,operacion estable
+1,La Esperanza,San Pedro,31,2025-08-04,998,174,130,600012,59.9,22.7,21,sin novedad,revisar alimentacion
+2,El Progreso,Entrerrios,31,2025-08-04,1410,213,127,880313,28.8,22.4,27,observacion,seguimiento veterinario
+3,Santa Lucia,Yarumal,31,2025-08-04,1281,183,132,800598,46.0,21.1,26,control preventivo,revisar alimentacion
+4,Monte Verde,Santa Rosa,31,2025-08-04,1606,204,148,1027376,57.8,20.5,30,sin novedad,operacion estable
+5,La Pradera,Donmatias,31,2025-08-04,1649,287,192,1228099,57.7,22.3,34,control preventivo,revisar alimentacion
+6,Altos del Rio,Belmira,31,2025-08-04,1841,260,193,1003050,60.5,22.2,36,sin novedad,operacion estable
+7,Villa Norte,Carolina,31,2025-08-04,2182,291,193,1452096,53.2,22.7,42,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,31,2025-08-04,2194,293,230,1172134,64.4,23.1,43,observacion,seguimiento veterinario
+1,La Esperanza,San Pedro,32,2025-08-11,1110,181,116,728800,56.1,22.2,23,sin novedad,revisar alimentacion
+2,El Progreso,Entrerrios,32,2025-08-11,1233,167,128,609486,43.4,21.8,22,sin novedad,operacion estable
+3,Santa Lucia,Yarumal,32,2025-08-11,1446,182,139,812242,23.6,20.8,28,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,32,2025-08-11,1458,207,163,1088611,68.3,20.3,28,sin novedad,operacion estable
+5,La Pradera,Donmatias,32,2025-08-11,1418,236,186,1200708,54.5,21.4,31,sin novedad,revisar alimentacion
+6,Altos del Rio,Belmira,32,2025-08-11,2025,287,165,1284983,55.2,21.7,37,control preventivo,operacion estable
+7,Villa Norte,Carolina,32,2025-08-11,1741,309,209,1026863,70.5,22.6,37,sin novedad,revisar alimentacion
+8,Buenavista,Gomez Plata,32,2025-08-11,2169,333,225,1298694,34.5,21.5,42,observacion,seguimiento veterinario
+1,La Esperanza,San Pedro,33,2025-08-18,1046,151,84,760737,43.1,22.1,21,sin novedad,revisar alimentacion
+2,El Progreso,Entrerrios,33,2025-08-18,982,161,125,773107,56.8,20.0,23,sin novedad,revisar alimentacion
+3,Santa Lucia,Yarumal,33,2025-08-18,1405,204,115,771489,70.7,20.5,28,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,33,2025-08-18,1613,238,142,895188,29.9,21.8,30,observacion,seguimiento veterinario
+5,La Pradera,Donmatias,33,2025-08-18,1514,238,183,1178427,49.7,20.0,34,control preventivo,revisar alimentacion
+6,Altos del Rio,Belmira,33,2025-08-18,2114,276,202,1218236,30.2,21.0,39,sin novedad,operacion estable
+7,Villa Norte,Carolina,33,2025-08-18,1806,294,218,1111202,45.2,20.0,40,sin novedad,revisar alimentacion
+8,Buenavista,Gomez Plata,33,2025-08-18,2092,324,203,1253982,38.9,20.1,43,sin novedad,revisar alimentacion
+1,La Esperanza,San Pedro,34,2025-08-25,1010,160,84,614570,55.5,21.4,21,sin novedad,revisar alimentacion
+2,El Progreso,Entrerrios,34,2025-08-25,1266,182,126,660517,66.7,20.5,23,sin novedad,operacion estable
+3,Santa Lucia,Yarumal,34,2025-08-25,1505,189,141,982131,56.6,21.7,26,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,34,2025-08-25,1537,230,150,928876,54.3,20.5,29,control preventivo,operacion estable
+5,La Pradera,Donmatias,34,2025-08-25,1898,225,187,1114308,63.5,22.3,35,control preventivo,operacion estable
+6,Altos del Rio,Belmira,34,2025-08-25,1767,261,165,935760,49.8,21.3,36,sin novedad,revisar alimentacion
+7,Villa Norte,Carolina,34,2025-08-25,1723,281,195,1296053,35.0,21.2,39,control preventivo,revisar alimentacion
+8,Buenavista,Gomez Plata,34,2025-08-25,2215,334,215,1182435,61.4,20.1,42,sin novedad,operacion estable
+1,La Esperanza,San Pedro,35,2025-09-01,1022,141,113,575203,64.7,22.1,22,sin novedad,revisar alimentacion
+2,El Progreso,Entrerrios,35,2025-09-01,1107,182,99,773070,24.5,20.8,22,control preventivo,operacion estable
+3,Santa Lucia,Yarumal,35,2025-09-01,1320,233,151,816282,24.4,21.0,25,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,35,2025-09-01,1339,228,125,908566,57.5,20.6,28,observacion,revisar alimentacion
+5,La Pradera,Donmatias,35,2025-09-01,1696,230,154,878928,49.3,21.8,31,control preventivo,operacion estable
+6,Altos del Rio,Belmira,35,2025-09-01,1604,288,190,1076742,57.5,20.2,37,sin novedad,revisar alimentacion
+7,Villa Norte,Carolina,35,2025-09-01,2352,254,174,1293341,42.2,20.7,42,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,35,2025-09-01,2023,324,225,1620940,51.2,21.9,45,sin novedad,revisar alimentacion
+1,La Esperanza,San Pedro,36,2025-09-08,1184,160,123,859338,48.4,19.2,23,sin novedad,operacion estable
+2,El Progreso,Entrerrios,36,2025-09-08,1479,156,105,1013116,40.6,21.9,27,sin novedad,operacion estable
+3,Santa Lucia,Yarumal,36,2025-09-08,1414,221,112,776165,52.6,20.7,26,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,36,2025-09-08,1730,239,131,1187473,58.6,19.3,33,control preventivo,operacion estable
+5,La Pradera,Donmatias,36,2025-09-08,1299,218,159,1044023,55.0,20.8,31,control preventivo,revisar alimentacion
+6,Altos del Rio,Belmira,36,2025-09-08,1790,285,184,987367,52.1,20.2,34,observacion,seguimiento veterinario
+7,Villa Norte,Carolina,36,2025-09-08,2058,257,206,1237687,37.4,19.3,42,control preventivo,revisar alimentacion
+8,Buenavista,Gomez Plata,36,2025-09-08,2009,286,206,1226129,30.7,19.1,41,control preventivo,revisar alimentacion
+1,La Esperanza,San Pedro,37,2025-09-15,987,145,86,587937,48.3,20.5,22,sin novedad,revisar alimentacion
+2,El Progreso,Entrerrios,37,2025-09-15,1000,196,128,678925,56.4,19.8,25,sin novedad,revisar alimentacion
+3,Santa Lucia,Yarumal,37,2025-09-15,1134,180,154,941949,71.1,21.7,25,sin novedad,revisar alimentacion
+4,Monte Verde,Santa Rosa,37,2025-09-15,1399,210,130,931170,40.5,19.2,32,observacion,revisar alimentacion
+5,La Pradera,Donmatias,37,2025-09-15,1509,269,141,1038267,73.0,21.0,34,sin novedad,revisar alimentacion
+6,Altos del Rio,Belmira,37,2025-09-15,1886,240,160,1122501,73.2,19.8,38,sin novedad,revisar alimentacion
+7,Villa Norte,Carolina,37,2025-09-15,2042,302,187,1257700,67.2,20.7,40,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,37,2025-09-15,1913,290,211,1226079,73.9,21.7,41,control preventivo,revisar alimentacion
+1,La Esperanza,San Pedro,38,2025-09-22,1227,162,98,732629,69.5,19.7,24,sin novedad,operacion estable
+2,El Progreso,Entrerrios,38,2025-09-22,1186,173,136,929184,31.6,20.7,26,observacion,revisar alimentacion
+3,Santa Lucia,Yarumal,38,2025-09-22,1513,177,133,963013,37.0,19.5,28,control preventivo,operacion estable
+4,Monte Verde,Santa Rosa,38,2025-09-22,1443,236,126,1039889,59.0,20.3,33,sin novedad,revisar alimentacion
+5,La Pradera,Donmatias,38,2025-09-22,1923,260,170,921328,76.8,20.6,35,sin novedad,operacion estable
+6,Altos del Rio,Belmira,38,2025-09-22,1793,239,166,1297405,47.4,20.5,38,sin novedad,revisar alimentacion
+7,Villa Norte,Carolina,38,2025-09-22,2263,296,187,1571487,51.0,18.6,41,control preventivo,operacion estable
+8,Buenavista,Gomez Plata,38,2025-09-22,1988,292,208,1258005,52.6,20.6,41,sin novedad,revisar alimentacion
+1,La Esperanza,San Pedro,39,2025-09-29,824,192,84,599532,77.8,18.6,20,observacion,revisar alimentacion
+2,El Progreso,Entrerrios,39,2025-09-29,1106,176,125,771592,56.4,19.6,24,sin novedad,revisar alimentacion
+3,Santa Lucia,Yarumal,39,2025-09-29,1057,183,108,990132,64.7,20.3,27,observacion,revisar alimentacion
+4,Monte Verde,Santa Rosa,39,2025-09-29,1413,208,143,1084695,79.6,19.0,33,sin novedad,revisar alimentacion
+5,La Pradera,Donmatias,39,2025-09-29,1639,262,161,941521,63.1,18.9,36,sin novedad,revisar alimentacion
+6,Altos del Rio,Belmira,39,2025-09-29,1790,253,164,1084573,67.4,20.7,37,sin novedad,revisar alimentacion
+7,Villa Norte,Carolina,39,2025-09-29,1930,268,189,1113038,55.5,19.1,37,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,39,2025-09-29,2318,312,219,1359855,39.1,19.4,44,sin novedad,operacion estable
+1,La Esperanza,San Pedro,40,2025-10-06,1080,169,117,771230,69.6,19.0,23,observacion,revisar alimentacion
+2,El Progreso,Entrerrios,40,2025-10-06,1030,168,125,740760,66.0,19.8,24,sin novedad,revisar alimentacion
+3,Santa Lucia,Yarumal,40,2025-10-06,1274,191,142,729910,51.2,18.7,26,sin novedad,revisar alimentacion
+4,Monte Verde,Santa Rosa,40,2025-10-06,1344,189,153,875288,76.5,21.0,32,sin novedad,revisar alimentacion
+5,La Pradera,Donmatias,40,2025-10-06,1787,269,162,1261516,58.6,18.6,36,sin novedad,revisar alimentacion
+6,Altos del Rio,Belmira,40,2025-10-06,1697,263,153,1000554,63.1,18.6,34,sin novedad,revisar alimentacion
+7,Villa Norte,Carolina,40,2025-10-06,2167,308,201,1332739,64.8,18.9,41,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,40,2025-10-06,2113,269,226,1321836,47.8,19.4,42,observacion,seguimiento veterinario
+1,La Esperanza,San Pedro,41,2025-10-13,1011,189,94,642571,80.7,19.2,21,sin novedad,revisar alimentacion
+2,El Progreso,Entrerrios,41,2025-10-13,1110,195,138,784178,62.1,19.8,23,observacion,revisar alimentacion
+3,Santa Lucia,Yarumal,41,2025-10-13,1386,214,142,772426,67.4,18.9,26,control preventivo,operacion estable
+4,Monte Verde,Santa Rosa,41,2025-10-13,1493,201,130,1145251,79.2,20.7,30,control preventivo,revisar alimentacion
+5,La Pradera,Donmatias,41,2025-10-13,1491,239,146,1255082,81.3,20.2,36,sin novedad,revisar alimentacion
+6,Altos del Rio,Belmira,41,2025-10-13,1669,261,192,1154652,63.2,19.8,37,sin novedad,revisar alimentacion
+7,Villa Norte,Carolina,41,2025-10-13,1889,293,195,1527342,57.2,17.9,40,sin novedad,revisar alimentacion
+8,Buenavista,Gomez Plata,41,2025-10-13,2467,310,185,1620371,60.6,20.8,45,observacion,seguimiento veterinario
+1,La Esperanza,San Pedro,42,2025-10-20,971,176,114,736889,73.3,19.2,22,control preventivo,revisar alimentacion
+2,El Progreso,Entrerrios,42,2025-10-20,1297,164,134,967105,68.2,18.1,27,observacion,revisar alimentacion
+3,Santa Lucia,Yarumal,42,2025-10-20,1342,196,152,1054584,88.4,18.6,28,control preventivo,revisar alimentacion
+4,Monte Verde,Santa Rosa,42,2025-10-20,1365,200,146,965401,77.2,17.9,28,control preventivo,revisar alimentacion
+5,La Pradera,Donmatias,42,2025-10-20,1777,263,179,972871,50.7,18.4,36,sin novedad,revisar alimentacion
+6,Altos del Rio,Belmira,42,2025-10-20,1754,284,153,910308,62.6,18.1,35,sin novedad,operacion estable
+7,Villa Norte,Carolina,42,2025-10-20,1747,276,191,1126614,84.8,18.0,42,control preventivo,revisar alimentacion
+8,Buenavista,Gomez Plata,42,2025-10-20,1930,284,223,1625185,53.0,19.3,42,sin novedad,revisar alimentacion
+1,La Esperanza,San Pedro,43,2025-10-27,1172,178,126,661083,86.9,20.3,23,sin novedad,operacion estable
+2,El Progreso,Entrerrios,43,2025-10-27,1246,164,101,737144,56.9,19.8,27,control preventivo,revisar alimentacion
+3,Santa Lucia,Yarumal,43,2025-10-27,1230,203,126,956271,62.9,19.4,28,sin novedad,revisar alimentacion
+4,Monte Verde,Santa Rosa,43,2025-10-27,1634,195,166,1114642,60.9,19.4,30,observacion,seguimiento veterinario
+5,La Pradera,Donmatias,43,2025-10-27,1761,217,154,1150977,56.4,19.1,36,sin novedad,revisar alimentacion
+6,Altos del Rio,Belmira,43,2025-10-27,1562,276,174,942136,92.3,19.3,34,control preventivo,revisar alimentacion
+7,Villa Norte,Carolina,43,2025-10-27,2172,310,173,1066355,54.2,18.4,41,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,43,2025-10-27,2158,333,202,1367706,75.0,18.8,40,sin novedad,operacion estable
+1,La Esperanza,San Pedro,44,2025-11-03,1004,155,98,514758,59.9,20.2,19,observacion,seguimiento veterinario
+2,El Progreso,Entrerrios,44,2025-11-03,1269,163,115,901662,91.2,20.0,26,sin novedad,revisar alimentacion
+3,Santa Lucia,Yarumal,44,2025-11-03,1152,188,140,879716,58.8,19.5,26,observacion,revisar alimentacion
+4,Monte Verde,Santa Rosa,44,2025-11-03,1138,195,136,902164,72.8,19.0,28,control preventivo,revisar alimentacion
+5,La Pradera,Donmatias,44,2025-11-03,1607,247,187,1201178,93.2,17.6,32,sin novedad,operacion estable
+6,Altos del Rio,Belmira,44,2025-11-03,1739,242,187,1140612,73.4,19.0,36,sin novedad,revisar alimentacion
+7,Villa Norte,Carolina,44,2025-11-03,1761,265,207,1314905,61.7,19.7,38,sin novedad,revisar alimentacion
+8,Buenavista,Gomez Plata,44,2025-11-03,2037,303,188,1279387,74.5,17.9,40,sin novedad,operacion estable
+1,La Esperanza,San Pedro,45,2025-11-10,1311,190,96,692038,81.4,19.5,23,control preventivo,operacion estable
+2,El Progreso,Entrerrios,45,2025-11-10,1042,221,140,840325,70.1,19.8,22,sin novedad,revisar alimentacion
+3,Santa Lucia,Yarumal,45,2025-11-10,1256,213,131,843067,88.0,17.4,28,observacion,revisar alimentacion
+4,Monte Verde,Santa Rosa,45,2025-11-10,1488,228,156,921106,108.1,20.4,30,observacion,revisar alimentacion
+5,La Pradera,Donmatias,45,2025-11-10,2057,247,152,927214,81.1,18.1,36,control preventivo,operacion estable
+6,Altos del Rio,Belmira,45,2025-11-10,1998,278,158,1386997,79.5,19.6,39,control preventivo,operacion estable
+7,Villa Norte,Carolina,45,2025-11-10,1655,309,204,1427340,108.1,17.8,37,control preventivo,revisar alimentacion
+8,Buenavista,Gomez Plata,45,2025-11-10,1709,327,232,1509130,83.5,19.6,40,sin novedad,revisar alimentacion
+1,La Esperanza,San Pedro,46,2025-11-17,1022,190,87,644938,69.9,19.3,19,observacion,seguimiento veterinario
+2,El Progreso,Entrerrios,46,2025-11-17,1076,210,143,853598,82.5,18.7,23,observacion,revisar alimentacion
+3,Santa Lucia,Yarumal,46,2025-11-17,1332,193,123,681908,88.5,18.3,25,sin novedad,operacion estable
+4,Monte Verde,Santa Rosa,46,2025-11-17,1646,225,157,953346,79.6,17.7,32,observacion,seguimiento veterinario
+5,La Pradera,Donmatias,46,2025-11-17,1796,224,158,1312252,82.6,17.6,36,observacion,revisar alimentacion
+6,Altos del Rio,Belmira,46,2025-11-17,1670,277,176,1316011,75.2,20.2,36,sin novedad,revisar alimentacion
+7,Villa Norte,Carolina,46,2025-11-17,2147,271,205,1108986,105.0,17.7,41,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,46,2025-11-17,1973,330,214,1431570,111.9,17.6,41,sin novedad,revisar alimentacion
+1,La Esperanza,San Pedro,47,2025-11-24,1105,144,89,593145,103.3,19.7,21,sin novedad,operacion estable
+2,El Progreso,Entrerrios,47,2025-11-24,1126,168,110,906089,93.1,19.5,24,sin novedad,revisar alimentacion
+3,Santa Lucia,Yarumal,47,2025-11-24,1246,205,138,721192,81.3,18.1,25,observacion,revisar alimentacion
+4,Monte Verde,Santa Rosa,47,2025-11-24,1525,234,173,839958,92.1,19.0,28,sin novedad,operacion estable
+5,La Pradera,Donmatias,47,2025-11-24,1426,276,159,1068988,110.6,18.0,31,sin novedad,revisar alimentacion
+6,Altos del Rio,Belmira,47,2025-11-24,2045,288,193,1128796,95.6,20.0,34,sin novedad,operacion estable
+7,Villa Norte,Carolina,47,2025-11-24,1874,267,198,1307887,73.7,19.7,39,control preventivo,revisar alimentacion
+8,Buenavista,Gomez Plata,47,2025-11-24,2214,329,231,1563444,119.1,17.6,40,observacion,seguimiento veterinario
+1,La Esperanza,San Pedro,48,2025-12-01,1201,152,100,699003,124.8,18.5,21,observacion,seguimiento veterinario
+2,El Progreso,Entrerrios,48,2025-12-01,1094,210,139,612813,111.3,20.2,23,sin novedad,revisar alimentacion
+3,Santa Lucia,Yarumal,48,2025-12-01,1316,249,152,789029,101.2,17.6,26,observacion,seguimiento veterinario
+4,Monte Verde,Santa Rosa,48,2025-12-01,1571,267,134,967471,107.2,19.7,32,control preventivo,revisar alimentacion
+5,La Pradera,Donmatias,48,2025-12-01,1814,268,153,938175,105.8,20.1,36,sin novedad,operacion estable
+6,Altos del Rio,Belmira,48,2025-12-01,2061,295,211,1452780,96.7,17.6,38,control preventivo,operacion estable
+7,Villa Norte,Carolina,48,2025-12-01,1769,323,222,1504605,108.8,17.8,39,sin novedad,revisar alimentacion
+8,Buenavista,Gomez Plata,48,2025-12-01,2610,334,211,1551436,116.8,18.4,45,control preventivo,operacion estable
+1,La Esperanza,San Pedro,49,2025-12-08,869,197,124,536789,111.8,20.1,20,sin novedad,revisar alimentacion
+2,El Progreso,Entrerrios,49,2025-12-08,1180,231,113,703849,86.6,18.4,23,control preventivo,operacion estable
+3,Santa Lucia,Yarumal,49,2025-12-08,1338,231,148,684881,93.0,19.4,26,control preventivo,operacion estable
+4,Monte Verde,Santa Rosa,49,2025-12-08,1776,210,139,922895,118.1,20.3,30,sin novedad,operacion estable
+5,La Pradera,Donmatias,49,2025-12-08,1948,279,159,1248842,120.8,19.1,34,observacion,seguimiento veterinario
+6,Altos del Rio,Belmira,49,2025-12-08,1920,256,187,915095,95.4,17.7,35,control preventivo,operacion estable
+7,Villa Norte,Carolina,49,2025-12-08,2133,282,220,1451606,129.8,18.4,38,sin novedad,operacion estable
+8,Buenavista,Gomez Plata,49,2025-12-08,2384,315,239,1611602,90.4,17.7,43,observacion,seguimiento veterinario
+1,La Esperanza,San Pedro,50,2025-12-15,1089,183,132,600145,99.3,17.6,20,sin novedad,operacion estable
+2,El Progreso,Entrerrios,50,2025-12-15,1450,178,129,671029,92.1,19.9,26,sin novedad,operacion estable
+3,Santa Lucia,Yarumal,50,2025-12-15,1290,219,133,957491,134.8,18.8,28,sin novedad,revisar alimentacion
+4,Monte Verde,Santa Rosa,50,2025-12-15,1740,276,181,891991,118.7,18.6,30,control preventivo,operacion estable
+5,La Pradera,Donmatias,50,2025-12-15,1771,240,171,1071685,100.6,19.9,34,sin novedad,operacion estable
+6,Altos del Rio,Belmira,50,2025-12-15,1734,269,177,1178288,126.7,18.7,34,sin novedad,operacion estable
+7,Villa Norte,Carolina,50,2025-12-15,2056,331,222,1334321,132.9,19.1,38,observacion,monitorear humedad
+8,Buenavista,Gomez Plata,50,2025-12-15,2179,303,237,1431261,112.7,19.1,43,sin novedad,operacion estable
+1,La Esperanza,San Pedro,51,2025-12-22,1079,210,103,774815,100.7,18.2,20,observacion,seguimiento veterinario
+2,El Progreso,Entrerrios,51,2025-12-22,1028,230,120,903683,122.7,20.0,23,control preventivo,revisar alimentacion
+3,Santa Lucia,Yarumal,51,2025-12-22,1728,205,130,834672,111.7,18.5,27,control preventivo,operacion estable
+4,Monte Verde,Santa Rosa,51,2025-12-22,1624,271,149,1004358,99.7,19.3,32,sin novedad,operacion estable
+5,La Pradera,Donmatias,51,2025-12-22,1637,276,192,1168654,134.8,18.3,31,sin novedad,monitorear humedad
+6,Altos del Rio,Belmira,51,2025-12-22,2030,284,192,1182389,122.3,19.6,38,sin novedad,operacion estable
+7,Villa Norte,Carolina,51,2025-12-22,1941,313,195,1323315,136.8,20.2,37,sin novedad,monitorear humedad
+8,Buenavista,Gomez Plata,51,2025-12-22,2441,344,226,1553794,133.8,19.6,42,observacion,monitorear humedad
+1,La Esperanza,San Pedro,52,2025-12-29,1144,213,114,599939,117.0,19.6,20,observacion,seguimiento veterinario
+2,El Progreso,Entrerrios,52,2025-12-29,1393,231,142,903145,138.6,20.1,25,sin novedad,monitorear humedad
+3,Santa Lucia,Yarumal,52,2025-12-29,1362,265,153,733259,137.9,20.3,26,sin novedad,monitorear humedad
+4,Monte Verde,Santa Rosa,52,2025-12-29,1431,230,160,766767,99.4,18.7,29,observacion,revisar alimentacion
+5,La Pradera,Donmatias,52,2025-12-29,1782,309,187,1139560,102.9,17.7,33,control preventivo,operacion estable
+6,Altos del Rio,Belmira,52,2025-12-29,2038,327,216,1234701,113.5,20.2,37,control preventivo,operacion estable
+7,Villa Norte,Carolina,52,2025-12-29,2437,325,197,1297954,104.8,19.4,42,observacion,seguimiento veterinario
+8,Buenavista,Gomez Plata,52,2025-12-29,2422,337,230,1416186,121.6,20.2,41,sin novedad,operacion estable
