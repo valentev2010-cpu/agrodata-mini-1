@@ -1,21 +1,21 @@
-# Notas tecnicas
+# Notas técnicas
 
-## Elementos de logica usados
+## Elementos de lógica usados
 - **Secuencia:** cargar datos, procesar, mostrar resultados.
-- **Condicionales:** clasificacion de produccion, validacion del menu, generacion de alertas.
-- **Ciclos:** recorrido de registros, ranking, exportacion y menu interactivo.
+- **Condicionales:** clasificación de producción, validación del menú, generación de alertas.
+- **Ciclos:** recorrido de registros, ranking, exportación y menú interactivo.
 
 ## Sugerencia para clase
 Pide a los estudiantes que:
 1. ejecuten el proyecto;
 2. tomen capturas del resumen general;
-3. busquen una finca especifica;
+3. busquen una finca específica;
 4. exporten el reporte;
-5. modifiquen los umbrales de clasificacion.
+5. modifiquen los umbrales de clasificación.
 
-## Expansion profesional
-Una siguiente version puede incorporar:
+## Expansión profesional
+Una siguiente versión puede incorporar:
 - SQLite para almacenar datos;
-- pandas para limpieza y analisis;
-- graficos por semana;
+- pandas para limpieza y análisis;
+- gráficos por semana;
 - interfaz con Streamlit o Flask.

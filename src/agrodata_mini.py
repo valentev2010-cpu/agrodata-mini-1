@@ -1,9 +1,8 @@
-from __future__ import annotations
+﻿from __future__ import annotations
 
 import csv
 from collections import defaultdict
 from pathlib import Path
-import matplotlib.pyplot as plt
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_FILE = BASE_DIR / "data" / "agrodata_semanal.csv"
@@ -118,7 +117,7 @@ def generar_alertas(registros: list[dict]) -> list[str]:
             alertas.append(
                 f"Semana {fila['semana']} - {fila['finca']}: lluvia alta ({fila['lluvia_mm']} mm), revisar humedad y pastos."
             )
-        if fila["incidencia_sanitaria"] == "observación":
+        if fila["incidencia_sanitaria"] == "observacion":
             alertas.append(
                 f"Semana {fila['semana']} - {fila['finca']}: requiere seguimiento veterinario."
             )
@@ -161,6 +160,13 @@ def guardar_reporte(registros: list[dict]) -> Path:
     return destino
 
 def graficar_leche_por_finca(registros: list[dict]) -> None:
+    try:
+        import matplotlib.pyplot as plt
+    except ImportError:
+        print("No se pudo generar el gráfico porque matplotlib no está instalado.")
+        print("Instálalo con: python -m pip install matplotlib")
+        return
+
     resumen = resumen_por_finca(registros)
 
     nombres = [finca["finca"] for finca in resumen]
@@ -174,7 +180,8 @@ def graficar_leche_por_finca(registros: list[dict]) -> None:
     plt.xticks(rotation=45)
     plt.tight_layout()
     plt.show()
-    
+
+
 def mostrar_menu() -> None:
     print("\\nAGRODATA MINI - ANALIZADOR DE DATOS SEMANALES")
     print("1. Ver resumen general")
@@ -271,3 +278,4 @@ def ejecutar() -> None:
 
 if __name__ == "__main__":
     ejecutar()
+

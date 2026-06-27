@@ -1,0 +1,39 @@
+AGRODATA MINI - REPORTE SEMANAL
+=============================================
+Registros analizados: 416
+Total leche: 736813 litros
+Total maíz: 110990 kg
+Total sorgo: 73438 kg
+Costo estimado de alimento: $434.387.973
+Promedio de lluvia: 92.83 mm
+
+TOP 5 FINCAS POR PRODUCCIÓN
+---------------------------------------------
+1. Buenavista (Gomez Plata) - Leche: 124619 L - Clasificación: Alta
+2. Villa Norte (Carolina) - Leche: 113273 L - Clasificación: Alta
+3. Altos del Rio (Belmira) - Leche: 105670 L - Clasificación: Alta
+4. La Pradera (Donmatias) - Leche: 94946 L - Clasificación: Alta
+5. Monte Verde (Santa Rosa) - Leche: 87709 L - Clasificación: Media
+
+ALERTAS PRINCIPALES
+---------------------------------------------
+Semana 1 - La Esperanza: lluvia alta (136.3 mm), revisar humedad y pastos.
+Semana 1 - El Progreso: requiere seguimiento veterinario.
+Semana 1 - Santa Lucia: requiere seguimiento veterinario.
+Semana 1 - Villa Norte: lluvia alta (141.0 mm), revisar humedad y pastos.
+Semana 2 - La Esperanza: lluvia alta (141.3 mm), revisar humedad y pastos.
+Semana 2 - Santa Lucia: lluvia alta (130.3 mm), revisar humedad y pastos.
+Semana 2 - Monte Verde: lluvia alta (140.7 mm), revisar humedad y pastos.
+Semana 2 - Monte Verde: requiere seguimiento veterinario.
+Semana 2 - Altos del Rio: lluvia alta (140.4 mm), revisar humedad y pastos.
+Semana 2 - Villa Norte: lluvia alta (146.4 mm), revisar humedad y pastos.
+Semana 2 - Buenavista: requiere seguimiento veterinario.
+Semana 3 - El Progreso: lluvia alta (146.5 mm), revisar humedad y pastos.
+Semana 3 - Santa Lucia: lluvia alta (136.4 mm), revisar humedad y pastos.
+Semana 3 - Monte Verde: lluvia alta (138.5 mm), revisar humedad y pastos.
+Semana 3 - La Pradera: lluvia alta (133.9 mm), revisar humedad y pastos.
+Semana 3 - Altos del Rio: lluvia alta (148.6 mm), revisar humedad y pastos.
+Semana 3 - Altos del Rio: requiere seguimiento veterinario.
+Semana 3 - Villa Norte: lluvia alta (134.7 mm), revisar humedad y pastos.
+Semana 4 - La Esperanza: lluvia alta (135.4 mm), revisar humedad y pastos.
+Semana 4 - La Esperanza: requiere seguimiento veterinario.
